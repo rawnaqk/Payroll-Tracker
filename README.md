@@ -13,7 +13,7 @@ Easy to use app in the browser, to help keep track of employees first and last n
 ## Preview
 ![preview of My Payroll Tracker](./assets/images/03-javascript-homework-console-demo.png)
 
-[Click here to preview Payroll-Tracker website]()
+[Click here to preview Payroll-Tracker website](https://rawnaqk.github.io/Payroll-Tracker/)
 
 ## Credits
 N/A
